@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+rembg[cpu]
+onnxruntime
+opencv-python
+pillow
+pydantic
+streamlit
+torch
+transformers==4.44.2
+tokenizers==0.19.1
+timm
+einops
+accelerate

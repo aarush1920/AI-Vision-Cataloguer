@@ -1,0 +1,27 @@
+{
+  "category": "Food & Beverage",
+  "product_type": "Malted Health Nutrition Drink Mix / Jar",
+  "dominant_colors": [
+    "White",
+    "Blue",
+    "Brown"
+  ],
+  "detected_text": [
+    "BournVita5starmagic2X STRENGTHNUTRIENTSADD TO MILK FOR2X WT, D, IRON, ZINC\u00aeSCIENTIFICALLYDESIGNEDMADE IN CHINA"
+  ],
+  "materials": [
+    "Food-Grade Plastic Jar"
+  ],
+  "style_tags": [
+    "Ready To Eat",
+    "Food Grade",
+    "Packaged Food",
+    "White",
+    "Blue"
+  ],
+  "detailed_description": "The image is of a deodorant stick from the brand Bourn Vita 5Star. The stick is cylindrical in shape with a blue cap on top. The label on the stick is brown in color and has the brand name \"Bourn Vita\" written in bold white letters at the top, followed by \"5star\" in smaller white letters. Below that, there is a description of the product, which states that it is 2x strength nutrients and is made with natural ingredients. At the bottom of the label, it says \"2x Strength Nutrients\" in white letters, indicating that the product is designed to help with weight loss.",
+  "raw_vlm_outputs": {
+    "caption": "The image is of a deodorant stick from the brand Bourn Vita 5Star. The stick is cylindrical in shape with a blue cap on top. The label on the stick is brown in color and has the brand name \"Bourn Vita\" written in bold white letters at the top, followed by \"5star\" in smaller white letters. Below that, there is a description of the product, which states that it is 2x strength nutrients and is made with natural ingredients. At the bottom of the label, it says \"2x Strength Nutrients\" in white letters, indicating that the product is designed to help with weight loss.",
+    "ocr": "BournVita5starmagic2X STRENGTHNUTRIENTSADD TO MILK FOR2X WT, D, IRON, ZINC\u00aeSCIENTIFICALLYDESIGNEDMADE IN CHINA"
+  }
+}
